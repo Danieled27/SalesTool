@@ -12,6 +12,8 @@ public final class Main {
 	private static void displayGreeting(){
 		System.out.println ("HELLOW HAPPY SALES PEOPLE!");
 		System.out.println ("HELLOW HAPPY SALES PEOPLE!");
+		
+		System.out.println ("test 1");
 	}
 	}
 
