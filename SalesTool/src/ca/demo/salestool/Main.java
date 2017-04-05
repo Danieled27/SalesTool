@@ -14,6 +14,7 @@ public final class Main {
 		System.out.println ("HELLOW HAPPY SALES PEOPLE!");
 		
 		System.out.println ("test 1");
+		System.out.println ("test 2");
 	}
 	}
 
